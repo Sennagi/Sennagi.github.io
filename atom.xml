@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sennagi.github.io</id>
     <title>千凪驿站</title>
-    <updated>2020-11-09T18:01:29.896Z</updated>
+    <updated>2020-11-09T18:04:27.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sennagi.github.io"/>
     <link rel="self" href="https://sennagi.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://sennagi.github.io/post/hello-gridea/</id>
         <link href="https://sennagi.github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2020-12-09T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎来到 <strong>千凪Sennagi</strong> 的博客首页!<br>
 ... <img src="https://sennagi.github.io/post-images/1604944265831.jpg" alt="" loading="lazy"></p>
 ]]></summary>
